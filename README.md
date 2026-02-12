@@ -22,6 +22,13 @@ TJEuro is a simple personal budgeting web app built using **Python, Streamlit, a
 - Streamlit
 - SQLite
 
+## 📄 Documentation
+
+- 📘 Business Requirements Document (BRD): [View BRD](docs/BRD.pdf)
+- 📗 Use Cases & User Stories: [View Use Cases](docs/UseCases.pdf)
+
+This project was designed using structured business analysis principles before implementation.
+
 ## 📌 Why this project?
 
 As a Business Analyst & MBA student, I wanted to:
@@ -29,4 +36,4 @@ As a Business Analyst & MBA student, I wanted to:
 - Design meaningful financial KPIs
 - Build an end-to-end solution from documentation to deployment
 
-This project reflects a hands-on approach to product thinking and technical implementation.
+This project reflects a hands-on approach to product thinking and technical implementation and it was designed using structured business analysis principles before implementation.
